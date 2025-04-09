@@ -22,7 +22,7 @@ public class PracticeProblem {
     }
 
     public static void main(String[] args) {
-        char[] testArray = {'g', 'e', 'b', 'a', 'd', 'f', 'c'};
+        char[] testArray = {'g', 'e', 'b', 'a', 'd', 'f', 'c'}; // not really needed just for me to test
         insertionSort(testArray);
     }
 }
